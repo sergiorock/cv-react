@@ -220,16 +220,16 @@ self.__precacheManifest = [
     "url": "/cv-react/static/media/OpenSans-Bold-webfont.93349923.svg"
   },
   {
-    "revision": "ea3c4697897bd7f1505facb7084c6ac3",
-    "url": "/cv-react/static/media/OpenSans-ExtraBold-webfont.ea3c4697.svg"
+    "revision": "2b4eeeaef53b3496a5cdf82803666ed7",
+    "url": "/cv-react/static/media/OpenSans-BoldItalic-webfont.2b4eeeae.svg"
   },
   {
     "revision": "6512fca9ff4dc029307018c17e4a2a9d",
     "url": "/cv-react/static/media/OpenSans-ExtraBoldItalic-webfont.6512fca9.svg"
   },
   {
-    "revision": "2b4eeeaef53b3496a5cdf82803666ed7",
-    "url": "/cv-react/static/media/OpenSans-BoldItalic-webfont.2b4eeeae.svg"
+    "revision": "ea3c4697897bd7f1505facb7084c6ac3",
+    "url": "/cv-react/static/media/OpenSans-ExtraBold-webfont.ea3c4697.svg"
   },
   {
     "revision": "fd6dd5fa10c5a74f0a767eeb695342f1",
